@@ -1,5 +1,6 @@
 # CAiMA
 Go through requirements.txt file
+
 http://datumorphism.com/til/programming/python/python-anaconda-install-requirements/
 
 -----------------------------------------------------------------------------------------
@@ -7,6 +8,7 @@ http://datumorphism.com/til/programming/python/python-anaconda-install-requireme
 MongoDB
 
 -Create database CAiMA_collection
+
 https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
 
 -Create collections
@@ -14,6 +16,7 @@ https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
 2. conversation
 3. developer
 4. story
+
 https://www.tutorialspoint.com/mongodb/mongodb_create_collection.htm
 
 -Insert a doc to developer collection
