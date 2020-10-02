@@ -26,12 +26,16 @@ https://docs.mongodb.com/manual/tutorial/insert-documents/
 
 -----------------------------------------------------------------------------------------
 
--Runner/CaimaRunner
-This will only run Audio to text convertor 
+Runner/CaimaRunner
+
+-This will only run Audio to text convertor 
 
 pyqt_ui
+
 -conversation.py will run Conversation UI
+
 -project_view is for primary actor
+
 -secondary_view is for secondary actor
 
 -----------------------------------------------------------------------------------------
